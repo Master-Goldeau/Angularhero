@@ -1,0 +1,10 @@
+div.heroList {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div.hero {
+    font-size: 1.2rem;
+    border: 2px;
+    border: solid;
+}
